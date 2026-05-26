@@ -8,10 +8,11 @@ Data scientist & AI/ML engineer passionate about building **machine learning, de
 ### 🛠 Tech Stack
 
 **Languages:** Python · R · SQL  
-**ML/DL:** PyTorch · TensorFlow · scikit-learn · Hugging Face  
-**LLM & NLP:** LangChain · LangGraph · spaCy · NLTK  
-**Backend & Deployment:** FastAPI · Flask  
-**Data & Infra:** MySQL · MongoDB · GCP · Git · Tableau
+**ML & Statistics:** PyTorch · TensorFlow · scikit-learn · XGBoost · Pandas · NumPy · Bayesian Inference · Causal Inference  
+**LLM & NLP:** RAG · LangChain · LangGraph · Multi-Agent Systems · MCP · Hugging Face · BERT · spaCy · NLTK · KoNLPy  
+**MLOps & Infra:** GCP · Docker · CI/CD · Linux/HPC · Git  
+**Backend & Deployment:** FastAPI · Flask · Streamlit · Gradio · R Shiny  
+**Databases & BI:** MySQL · MongoDB · Tableau
 
 ### 📫 Let's Connect
 
